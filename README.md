@@ -17,11 +17,11 @@ A Python notebook used to:
 
 ## Key Visual Outputs
 - **Average Salary by Role** (`avg_salary_by_role.png`)
-- **Experience vs Salary (Interactive)** (`exp_vs_salary.html`)
+- **Experience vs Salary (Interactive)**(`thumbnails/exp_vs_salary_thumb.png)](https://oreoluwaanjorin.github.io/excel-python-portfolio/visuals/exp_vs_salary.html`)
 - **Top ROI Companies** (`top_roi_companies.png`)
-- **Budget vs Sales with Regression** (`budget_vs_sales.html`)
+- **Budget vs Sales with Regression** (`thumbnails/budget_vs_sales_thumb.png)](https://oreoluwaanjorin.github.io/excel-python-portfolio/visuals/budget_vs_sales.html`)
 - **Interest Rate Distribution** (`interest_rate_dist.png`)
-- **Repayment by Term (Box Plot)** (`repayment_by_term.html`)
+- **Repayment by Term (Box Plot)** (`thumbnails/repayment_by_term_thumb.png)](https://oreoluwaanjorin.github.io/excel-python-portfolio/visuals/repayment_by_term.html`)
 - **Revenue Loss from Discounts** (`discount_impact.png`)
 
 ## Tools and Libraries Used
