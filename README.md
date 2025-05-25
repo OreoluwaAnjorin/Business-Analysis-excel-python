@@ -9,7 +9,7 @@ Includes:
 - **LOANS AND INTEREST**: Interest computation and repayment analysis
 - **PRICE DISCOUNT**: Discount modeling and revenue impact
 
-### `excel_analysis.ipynb`
+### `excel_analysis_with_python.ipynb`
 A Python notebook used to:
 - Clean data
 - Perform ROI and repayment computations
