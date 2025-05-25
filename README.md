@@ -1,4 +1,4 @@
-# Excel & Python Data Analysis – Portfolio Project
+# Excel & Python Data Analysis Project
 This project showcases end-to-end data analysis combining Microsoft Excel and Python to extract actionable insights. Each dataset was explored, cleaned, and visualized using professional-grade tools. With over 15 years of experience in data analytics, this work is a reflection of practical, high-impact analytics practices.
 
 ## Project Contents
