@@ -35,5 +35,5 @@ A Python notebook used to:
 | **plotly.express**    | Interactive, browser-based visualization     |
 
 ## Author
-[Oreoluwa Anjorin]  
+Oreoluwa Anjorin  
 [LinkedIn Profile](https://www.linkedin.com/in/oreoluwa-anjorin-69a4441aa/)
